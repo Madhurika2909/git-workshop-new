@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 file 1 content changes for main
+=======
+some content to file 1
+>>>>>>> feature
